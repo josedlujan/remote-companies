@@ -42,6 +42,7 @@ Get on Board - [https://www.getonbrd.com/](https://www.getonbrd.com/) - Worldwid
 **R**
 
 **S**
+Stacksync - [https://www.stacksync.cloud/](https://www.stacksync.cloud/) -  Worldwide - Remote 100% - CRM
 
 **T**
 
