@@ -45,6 +45,7 @@ Get on Board - [https://www.getonbrd.com/](https://www.getonbrd.com/) - Worldwid
 Stacksync - [https://www.stacksync.cloud/](https://www.stacksync.cloud/) -  Worldwide - Remote 100% - CRM
 
 **T**
+Typewise - [https://www.typewise.app/](https://www.typewise.app/)- Worldwide  -  Remote 100% -  AI Communictation Assistant
 
 Turing      - [https://www.turing.com](https://www.turing.com)   -    Worldwide  -  Remote 100% -  Consultant
 
