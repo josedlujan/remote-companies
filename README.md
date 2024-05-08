@@ -47,7 +47,7 @@ Stacksync - [https://www.stacksync.cloud/](https://www.stacksync.cloud/) -  Worl
 **T**
 Typewise - [https://www.typewise.app/](https://www.typewise.app/)- Worldwide  -  Remote 100% -  AI Communictation Assistant
 
-Turing      - [https://www.turing.com](https://www.turing.com)   -    Worldwide  -  Remote 100% -  Consultant
+Turing   - [https://www.turing.com](https://www.turing.com)   -    Worldwide  -  Remote 100% -  Consultant
 
 **U**
 
@@ -56,6 +56,7 @@ Turing      - [https://www.turing.com](https://www.turing.com)   -    Worldwide 
 **W**
 
 **X**
+Xepelin - [https://xepelin.com/](https://xepelin.com/) - Latam - Remote/ Hybrid - IT
 
 **Y**
 
