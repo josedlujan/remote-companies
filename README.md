@@ -11,6 +11,7 @@ Affinity - [https://www.itsaffinity.com/](https://www.itsaffinity.com/) - Worldw
 **D**
 
 **E**
+Encora - [https://careers.encora.com/](https://careers.encora.com/) - Worldwide - Remote 100% - IT
 
 **F**
 Forage - [https://www.joinforage.com/](https://www.joinforage.com/) - Worldwide - Remote, Hybrid - Payments
