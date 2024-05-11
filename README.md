@@ -9,6 +9,7 @@ Affinity - [https://www.itsaffinity.com/](https://www.itsaffinity.com/) - Worldw
 **C**
 
 **D**
+Deel -  [http://www.deel.com](http://www.deel.com) - Worldwide - Remote 100% - Payments
 
 **E**
 Encora - [https://careers.encora.com/](https://careers.encora.com/) - Worldwide - Remote 100% - IT
