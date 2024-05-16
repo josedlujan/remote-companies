@@ -3,7 +3,7 @@
 
 **A**
 Affinity - [https://www.itsaffinity.com/](https://www.itsaffinity.com/) - Worldwide - Remote, Hybrid -  Compliance training platform
-
+Alesia Labs  -  [https://alesia.ai/](https://alesia.ai/) - Latam - Remote, Hybrid
 **B**
 
 **C**
