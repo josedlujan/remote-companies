@@ -5,6 +5,7 @@
 Affinity - [https://www.itsaffinity.com/](https://www.itsaffinity.com/) - Worldwide - Remote, Hybrid -  Compliance training platform
 Alesia Labs  -  [https://alesia.ai/](https://alesia.ai/) - Latam - Remote
 Auth0 - [https://auth0.com/](https://auth0.com/) - Worldwide - Remote
+Automattic - [https://automattic.com/work-with-us/](https://automattic.com/work-with-us/) Worldwide - Remote
 **B**
 
 **C**
