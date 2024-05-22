@@ -10,6 +10,7 @@ Automattic - [https://automattic.com/work-with-us/](https://automattic.com/work-
 
 **C**
 Coliver - [https://www.coliver.com](https://www.coliver.com)- Chile - Remote 
+Cleverit -[https://www.cleveritgroup.com/](https://www.cleveritgroup.com/) - Chile - Remote
 **D**
 Deel -  [http://www.deel.com](http://www.deel.com) - Worldwide - Remote 100% - Payments
 
@@ -27,6 +28,7 @@ Globant - [http://www.globant.com](http://www.globant.com) Worldwide - Remote
 **H**
 
 **I**
+Interbank - [http://www.interbank.com.pe](http://www.interbank.com.pe) - Remote
 
 **J**
 
